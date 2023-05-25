@@ -27,3 +27,5 @@ print(temp)
 #     if num [i] ==0:
 #        num [i] =7 
 # print(num)
+
+# it is in git ignore file
